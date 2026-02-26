@@ -11,7 +11,7 @@
 ### 3. Network Traffic Analytics
 *Analyzed the **CIC-IDS2017** dataset to build a security log analytics engine.*
 
-## 🛠️ Skills
+##  Skills
 * **Languages:** Python, SQL
 * **AI/ML:** NLP (S-BERT), Random Forest, LSTM
 * **Tools:** Streamlit, GitHub, Excel Analytics
